@@ -1,6 +1,6 @@
 #esp8266-Yo-button
 
-押すとYo(www.justyo.co)を送る**物理**ボタン
+押すと[Yo](www.justyo.co)を送る**物理**ボタン
 
 ## Description
 
